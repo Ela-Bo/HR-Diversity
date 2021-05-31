@@ -51,7 +51,9 @@ Useful for identifying groups that are underrepresented in the organisation
 - Employment status (full time, part-time, flexible working)
 
 ### Salary related
+Useful for identifying bias in compensation and reward schemes.
 - Avg Salary per Gender (Gender Gap)
+- Compare financial and non-financial rewards earned 
 
 ### Related to D&I Initiatives
 - **Number of D&I Initiatives Implemented** = The number of D&I initiatives implemented measures organizational commitment to establishing and maintaining a culture of diversity and inclusion
