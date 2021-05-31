@@ -16,19 +16,19 @@ Diversity and Inclusion is **not a one-time initiative**. In the best case, it b
 
 # Steps to setting meaningful diversity and inclusion metrics
 
-**1. Define which diversity dimensions you will monitor, depending on your business goals**
+ **1. Define which diversity dimensions you will monitor, depending on your business goals**
 E.g.if you are seeking to improve retention through the implementation of a flexible work policy you should extend your diversity metrics to track employment status and tenure. 
-**2. Review data policies**
+ **2. Review data policies**
 Maybe you need the individual consent to capture sensitive information. So you should consider the legal and ethical requirements regarding the storing of sensitive information. 
-**3. Establish baseline measures**
+ **3. Establish baseline measures**
 It is impossible to track progress unless you have a baseline measure. Maybe you can check business or industry benchmarks or set up your own company baseline measure. 
-**4. Assign responsibility and establish accountability**
+ **4. Assign responsibility and establish accountability**
 Ultimate accountability for diversity and inclusion should be at the level of the CEO and the Board of Directors.
-**5. Track and analyse results** 
+ **5. Track and analyse results** 
 It's a good idead to set up a formal plan for measuring your progress — what metrics will be calculated, by whom, and how often? 
-**6. Report results and outline new initiatives**
+ **6. Report results and outline new initiatives**
 Results of diversity efforts should be transparent internally - of course, not all metrics need to be disclosed.
-**7. Review metrics regularly**
+ **7. Review metrics regularly**
 Employers should regularly review diversity and inclusion metrics, changing them as needed as the diversity and inclusion program matures and as business goals change.
 
 - 
