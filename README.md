@@ -1,6 +1,6 @@
-![](https://github.com/Ela-Bo/HR-Diversity/blob/main/Diversity.png) (source: https://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/26109/reasons-for-having-diversity-in-the-workplace/)
+![](https://github.com/Ela-Bo/HR-Diversity/blob/main/Diversity.png) [Image source](https://recruitingtimes.org/recruitment-and-hr-learning-and-development-l-and-d/26109/reasons-for-having-diversity-in-the-workplace/)
 
-HR Analytics is catching on, but it’s still a growing area with many companies yet to embrace the opportunities it can offer. Last year I was part of a data science bootcamp and spent some time training myself to e.g. learn python and statistics. I know that HR information is subject to confidentiality, privacy and data protection laws and ethics is something that should always be on your mind. Still I am at the beginning but I am so curious to take a deeper dive into the HR Analytics world. That's why I spent some time reading articles and tried to find out more about diversity and inclusion and how HR Analytics can be part of it. 
+HR Analytics is catching on, but it’s still a growing area with many companies yet to embrace the opportunities it can offer. Last year I was part of a data science bootcamp and spent some time training myself to e.g. learn python and statistics. I know that HR information is subject to confidentiality, privacy and data protection laws and ethics is something that should always be on your mind. Still I am at the beginning and need to learn a lot more but I am so curious to take a deeper dive into the HR Analytics world. That's why I spent some time reading articles and tried to find out more about diversity and inclusion and how HR analytics can be part of it. 
 
 # Diversity and Inclusion
 
@@ -37,13 +37,18 @@ Employers should regularly review diversity and inclusion metrics, changing them
 
 In the follwoing i noted some metrics for your diversity & inclusion analytics which can help you to e.g. identify risk areas, prioritise initiatives, set targets and other program goals. 
 
-### Diversity Numbers (representation in the board, in the leadership, whole organication)
+### Diversity Numbers (representation in the board, in the leadership, whole organication) 
+Useful for identifying groups that are underrepresented in the organisation
 - Nationalities / Ethnicity 
 - Gender 
-- Education 
-- Languages
-- Job models (remote, part time .. ) 
-- Seniority 
+- Age
+- Educational attainment
+- Languages spoken / English proficiency
+- Seniority (tenure / professional expertise)
+- Disability and health status
+- Family status
+- Carer and parental status
+- Employment status (full time, part-time, flexible working)
 
 ### Salary related
 - Avg Salary per Gender (Gender Gap)
@@ -53,6 +58,7 @@ In the follwoing i noted some metrics for your diversity & inclusion analytics w
 - **Number of D&I Trainings & Participants** = The number of D&I trainings offered and measuring the participamnts can give you insights of your culture of diversity and inclusion
 
 ### Related to Recruiting 
+Useful for identifying barriers to entry for different groups, pipeline issues, and narrow or biased recruitment efforts or for identifying bias in assessment and selection.
 - **Diversity in Recruiting / Talent Pool**
 Looking closer on your recruitment activities you can e.g. measure the gender / education / languages / nationalities etc. in your recruitment process / or talent pool. 
 - **Number of global hires** = Or you can check the number of how many talents were hired globally 
