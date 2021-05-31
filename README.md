@@ -1,6 +1,6 @@
 ![](https://github.com/Ela-Bo/HR-Diversity/blob/main/Diversity.png) 
 
-HR Analytics is catching on, but it’s still a growing area with many companies yet to embrace the opportunities it can offer. Last year I was part of a data science bootcamp and spent some time training myself to learn python and statistics. I know that HR information is subject to confidentiality, privacy and data protection laws and ethics is something that should always be on your mind. Still I am so curious to take a deeper dive into the HR Analytics world, that's why I spent some time to find out more about diversity and inclusion and how HR Analytics can help. 
+HR Analytics is catching on, but it’s still a growing area with many companies yet to embrace the opportunities it can offer. Last year I was part of a data science bootcamp and spent some time training myself to learn python and statistics. I know that HR information is subject to confidentiality, privacy and data protection laws and ethics is something that should always be on your mind. Still I am so curious to take a deeper dive into the HR Analytics world. That's why I spent some time to find out more about diversity and inclusion and how HR Analytics can help. 
 
 # Diversity and Inclusion
 
