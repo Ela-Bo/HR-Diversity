@@ -31,8 +31,9 @@ Results of diversity efforts should be transparent internally - of course, not a
 - **7. Review metrics regularly**
 Employers should regularly review diversity and inclusion metrics, changing them as needed as the diversity and inclusion program matures and as business goals change.
 
-- 
-In the you will find some metrics for your diversity & inclusion analytics which can help you to e.g. identify risk areas, prioritise initiatives, set targets and other program goals. 
+# Metrics 
+
+In the follwoing i noted some metrics for your diversity & inclusion analytics which can help you to e.g. identify risk areas, prioritise initiatives, set targets and other program goals. 
 
 ## 5. Diversity Rate
 Keeps track of how successfully the organization is creating an environment that fosters an open and accepting community.
