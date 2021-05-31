@@ -1,5 +1,7 @@
 ![](https://github.com/Ela-Bo/HR-Diversity/blob/main/Diversity.png) 
 
+HR Analytics is catching on, but it’s still a growing area with many companies yet to embrace the opportunities it can offer. Last year I was part of a data science bootcamp and spent some time training myself to learn python and statistics. I know that HR information is subject to confidentiality, privacy and data protection laws and ethics is something that should always be on your mind. Still I am so curious to take a deeper dive into the HR Analytics world, that's why I spent some time to find out more about diversity and inclusion and how HR Analytics can help. 
+
 # Diversity and Inclusion
 
 Diverse teams with engaged talents are **more innovative, u**nderstand customer needs better, and drive financial results**. On the one hand, a focus on diversity, equity and inclusion is important for companies looking to build workplaces that are **representative of the world in which we live**. On the other hand, investments in diversity, equity and inclusion have a well-documented relationship to **business performance** and increased profits. 
