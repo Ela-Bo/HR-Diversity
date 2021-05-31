@@ -26,9 +26,11 @@ It is impossible to track progress unless you have a baseline measure. Maybe you
 Ultimate accountability for diversity and inclusion should be at the level of the CEO and the Board of Directors.
 - **5. Track and analyse results** 
 It's a good idead to set up a formal plan for measuring your progress — what metrics will be calculated, by whom, and how often? 
-- **6. Report results and outline new initiatives**
+- **6. Build a Dashboard**  
+Visualize your KPIs and create a Human resources KPI template. It includes all the key metrics and presents them visually so that your analysis becomes much simpler.
+- **7. Report results and outline new initiatives**
 Results of diversity efforts should be transparent internally - of course, not all metrics need to be disclosed.
-- **7. Review metrics regularly**
+- **8. Review metrics regularly**
 Employers should regularly review diversity and inclusion metrics, changing them as needed as the diversity and inclusion program matures and as business goals change.
 
 # Metrics 
@@ -38,28 +40,25 @@ In the follwoing i noted some metrics for your diversity & inclusion analytics w
 ## 5. Diversity Rate
 Keeps track of how successfully the organization is creating an environment that fosters an open and accepting community.
 
-## 7. Diversity Numbers
+### Diversity Numbers (representation in the board, in the leadership, whole organication)
+- Nationalities / Ethnicity 
+- Gender 
+- Education 
+- Languages
+- Job models (remote, part time .. ) 
+- Seniority 
 
-### Nationalities / Ethnicity (representation in the board, in the leadership, whole organication)
-Workplace diversity helps to cultivate innovation and competitive advantage. Diversity of nationalities and ethnicities can be calculated by noting the differences among employee demographic segments.
-### Gender (representation in the board, in the leadership, whole organication)
-### Education (representation in the board, in the leadership, whole organication)
-### Languages (representation in the board, in the leadership, whole organication)
-### Job models (remote, part time .. ) (representation in the board, in the leadership, whole organication)
-### Seniority (representation in the board, in the leadership, whole organication)
-### Avg Salary per Gender (Gender Gap)
-### Geographical location 
-### Skills
+### Salary related
+- Avg Salary per Gender (Gender Gap)
 
-## 6. Number of D&I Initiatives Implemented
-The number of D&I initiatives implemented measures organizational commitment to establishing and maintaining a culture of diversity and inclusion.
+### Related to D&I Initiatives
+- **Number of D&I Initiatives Implemented** = The number of D&I initiatives implemented measures organizational commitment to establishing and maintaining a culture of diversity and inclusion
+- **Number of D&I Trainings & Participants** = The number of D&I trainings offered and measuring the participamnts can give you insights of your culture of diversity and inclusion
 
-
-## 6. Number of D&I Trainings & Participants
-The number of D&I trainings offered and measuring the participamnts can give you insights of your culture of diversity and inclusion.
-
-## 7. Diversity in Recruiting / Talent Pool 
-Measuring the gender / education / languages / nationalities in your recruitment process / or talent pool. Or the number of how many talents were hired globally . 
+### Related to Recruiting 
+- **Diversity in Recruiting / Talent Pool**
+Looking closer on your recruitment activities you can e.g. measure the gender / education / languages / nationalities etc. in your recruitment process / or talent pool. 
+- **Number of global hires** = Or you can check the number of how many talents were hired globally 
 
 ## 8. Equity 
 Equity involves looking at all processes in your business - from hiring, firing, promotions, task assignment, team creation, recognition to other less obvious aspects like how meetings are run and how groups interact. It looks at these processes for bias or inequity - either conscious or unconscious. 
@@ -77,6 +76,4 @@ Inclusion is a feeling of:
 It can be measured according to the anonymous employee surveys
 
 
-# Dashboard
- 
-The last step of all is to visualize your KPIs and create a Human resources KPI template. It includes all the key metrics and presents them visually so that your analysis becomes much simpler. You can create your own dashboard in Excel or use a software / tool that automatically offers you real-time KPI reports that are the most relevant to your department.
+
