@@ -1,17 +1,36 @@
-# Diversity and Inclusion
-
 ![](https://github.com/Ela-Bo/HR-Diversity/blob/main/Diversity.png) 
 
-Diverse teams with engaged talents are more innovative, understand customer needs better, and drive financial results. On the one hand, a focus on diversity, equity and inclusion is important for companies looking to build workplaces that are representative of the world in which we live. On the other hand, investments in diversity, equity and inclusion have a well-documented relationship to business performance and increased profits. Organizations need a comprehensive approach that looks at diversity, equity and inclusion across the organization (and society) as a whole. HR may lead the effort, but this is an organization-wide undertaking. Data and analytics should play a key role in this endeavor, providing the ability to identify where there are gaps, prioritize areas for action, and enable ongoing measurement of progress.  
+# Diversity and Inclusion
+
+Diverse teams with engaged talents are **more innovative, u**nderstand customer needs better, and drive financial results**. On the one hand, a focus on diversity, equity and inclusion is important for companies looking to build workplaces that are **representative of the world in which we live**. On the other hand, investments in diversity, equity and inclusion have a well-documented relationship to **business performance** and increased profits. 
+
+Organizations need a comprehensive approach that looks at diversity, equity and inclusion across the organization (and society) as a whole. HR may lead the effort, but this is an **organization-wide undertaking**. Data and analytics should play a key role in this endeavor, providing the ability to **identify where there are gaps, prioritize areas for action, and enable ongoing measurement of progress**.  
 
 **Diversity**  When we are talking about a diversity of talents (internal diversity), we are talking about the representation of different groups of population in the workforce of an organization.
 **Equity** Equity involves looking at programs, initiatives and individual cases where opportunities may or may not be consistent and fair. This can be characterized by inequities or gaps in pay, promotions, opportunities for development, opportunities to lead, and more. 
 **Inclusion** First of all, it is a feeling. It is subjective and less tangible than diversity. The best talents that don’t feel included will not contribute and won’t’ stay in the organization for a long time.
-**
 
-***The diversity of talents results in a diversity of ideas. If those ideas are taken seriously (=inclusion), an organization will enjoy some performance improvements.***
+Diversity and Inclusion is **not a one-time initiative**. In the best case, it becomes a part of the **company’s culture**. So the following indicators should be updated and analyzed periodically. This data is sometimes found in your core systems, like your HRIS or your learning management system, furthermore it’s found in surveys or qualitative data. Your HR Analytics team can help determine the steps the organization would need to take to achieve its diversity goals. 
 
-Diversity and Inclusion is not a one-time initiative. In the best case, it becomes a part of the company’s culture. So the following indicators should be updated and analyzed periodically. This data is sometimes found in your core systems, like your HRIS or your learning management system, other times it’s found in surveys or qualitative data.  Your HR Analytics team can help determine the steps the organization would need to take to achieve its diversity goals. 
+# Steps to setting meaningful diversity and inclusion metrics
+
+**1. Define which diversity dimensions you will monitor, depending on your business goals**
+E.g.if you are seeking to improve retention through the implementation of a flexible work policy you should extend your diversity metrics to track employment status and tenure. 
+**2. Review data policies**
+Maybe you need the individual consent to capture sensitive information. So you should consider the legal and ethical requirements regarding the storing of sensitive information. 
+**3. Establish baseline measures**
+It is impossible to track progress unless you have a baseline measure. Maybe you can check business or industry benchmarks or set up your own company baseline measure. 
+**4. Assign responsibility and establish accountability**
+Ultimate accountability for diversity and inclusion should be at the level of the CEO and the Board of Directors.
+**5. Track and analyse results** 
+It's a good idead to set up a formal plan for measuring your progress — what metrics will be calculated, by whom, and how often? 
+**6. Report results and outline new initiatives**
+Results of diversity efforts should be transparent internally - of course, not all metrics need to be disclosed.
+**7. Review metrics regularly**
+Employers should regularly review diversity and inclusion metrics, changing them as needed as the diversity and inclusion program matures and as business goals change.
+
+- 
+In the you will find some metrics for your diversity & inclusion analytics which can help you to e.g. identify risk areas, prioritise initiatives, set targets and other program goals. 
 
 ## 5. Diversity Rate
 Keeps track of how successfully the organization is creating an environment that fosters an open and accepting community.
