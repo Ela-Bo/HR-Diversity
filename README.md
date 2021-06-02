@@ -38,7 +38,7 @@ Employers should regularly review diversity and inclusion metrics, changing them
 
 In the follwoing i noted some metrics for your diversity & inclusion analytics which can help you to e.g. identify risk areas, prioritise initiatives, set targets and other program goals. Once you identify the intended outcome, attach a metric to it. For outcomes around feelings, perspectives, or other non-numerical items, use ranked method metrics where you offer a statement that speaks to the outcome, such as “I believe this company is inclusive” and ask respondents to rank their feelings about the statement on a scale of one to five.
 
-### Diversity Numbers (representation in the board, in the leadership, whole organication) 
+### Diversity Numbers (representation in the board, in the leadership, whole organization) 
 Useful for identifying groups that are underrepresented in the organisation
 - Nationalities / Ethnicity 
 - Gender 
