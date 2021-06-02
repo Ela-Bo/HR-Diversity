@@ -36,7 +36,7 @@ Employers should regularly review diversity and inclusion metrics, changing them
 
 # Metrics 
 
-In the follwoing i noted some metrics for your diversity & inclusion analytics which can help you to e.g. identify risk areas, prioritise initiatives, set targets and other program goals. 
+In the follwoing i noted some metrics for your diversity & inclusion analytics which can help you to e.g. identify risk areas, prioritise initiatives, set targets and other program goals. Once you identify the intended outcome, attach a metric to it. For outcomes around feelings, perspectives, or other non-numerical items, use ranked method metrics where you offer a statement that speaks to the outcome, such as “I believe this company is inclusive” and ask respondents to rank their feelings about the statement on a scale of one to five.
 
 ### Diversity Numbers (representation in the board, in the leadership, whole organication) 
 Useful for identifying groups that are underrepresented in the organisation
@@ -56,9 +56,16 @@ Useful for identifying bias in compensation and reward schemes.
 - Avg Salary per Gender (Gender Gap)
 - Compare financial and non-financial rewards earned 
 
+### Ranked 
+Ranked method metrics are single statements where respondents answer on a scale of 1 to 5, one being a “strongly disagree” and 5 being a “strongly agree”. This helps to quantify feeling across the organization.
+- I can disagree with my co-workers productively, regardless of seniority
+- I know all opportunities in the company are open to anyone who is qualified
+
 ### Related to D&I Initiatives
 - **Number of D&I Initiatives Implemented** = The number of D&I initiatives implemented measures organizational commitment to establishing and maintaining a culture of diversity and inclusion
 - **Number of D&I Trainings & Participants** = The number of D&I trainings offered and measuring the participamnts can give you insights of your culture of diversity and inclusion
+- % of **bathrooms** that are gender affirming or **gender neutral**
+- % of **entrances** and exits that are **accessible** 
 
 ### Related to Recruiting 
 Useful for identifying barriers to entry for different groups, pipeline issues, and narrow or biased recruitment efforts or for identifying bias in assessment and selection.
@@ -66,11 +73,13 @@ Useful for identifying barriers to entry for different groups, pipeline issues, 
 Looking closer on your recruitment activities you can e.g. measure the gender / education / languages / nationalities etc. in your recruitment process / or talent pool. 
 - **Number of global hires** = Or you can check the number of how many talents were hired globally 
 
-## 8. Equity 
-Equity involves looking at all processes in your business - from hiring, firing, promotions, task assignment, team creation, recognition to other less obvious aspects like how meetings are run and how groups interact. It looks at these processes for bias or inequity - either conscious or unconscious. 
+### Company wide metrics 
+Company-wide metrics help show the impact of diversity and inclusion projects on the business. They should be looked at in isolation but also correlated to the data you have available through ranked method statements and demographic information. 
+- Overall sales growth correlated to increases in diversity or changes in ranked metrics
+- Brand sentiment (done through social listening and correlated to any public conversation the company has about diversity and inclusion)
 
 
-## 8. Employee Inclusion Index
+###  Employee Inclusion Index
 It’s about creating an environment where people feel valued, leveraged and welcome. In an inclusive organization all people are respected and appreciated for their unique contributions.Information about inclusiveness tends to be driven by experience data and surveys which can be purely qualitative in nature but can also exist in a hybrid where qualitative and quantitative data are combined. 
 
 Inclusion is a feeling of:
