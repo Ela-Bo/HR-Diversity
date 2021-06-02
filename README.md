@@ -91,4 +91,10 @@ Inclusion is a feeling of:
 It can be measured according to the anonymous employee surveys
 
 
+# To Do
+I would love to work on a HR related data set and analyze the above mentioned metrics. Some time ago I already worked on a HR related Dataset and there are some of the mentioned topics in it. You can check it our here. 
+
+I also need to mention, tha I just started and still working on this topic - so this article is constantly changing and I do not assume any responsibility for the completeness. 
+
+
 
