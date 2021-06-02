@@ -4,7 +4,7 @@ HR Analytics is catching on, but it’s still a growing area with many companies
 
 # Diversity and Inclusion
 
-Diverse teams with engaged talents are **more innovative, understand customer needs better, and drive financial results**. On the one hand, a focus on diversity, equity and inclusion is important for companies looking to build workplaces that are **representative of the world in which we live**. On the other hand, investments in diversity, equity and inclusion have a well-documented relationship to **business performance** and increased profits. 
+Diverse teams with engaged talents are **more innovative, understand customer needs better, and drive financial results**. On the one hand, a focus on diversity, equity and inclusion is important for companies looking to build workplaces that are **representative of the world in which we live**. On the other hand, investments in diversity, equity and inclusion have a relationship to **business performance** and increased profits. 
 
 Organizations need a comprehensive approach that looks at diversity, equity and inclusion across the organization (and society) as a whole. HR may lead the effort, but this is an **organization-wide undertaking**. Data and analytics should play a key role in this endeavor, providing the ability to **identify where there are gaps, prioritize areas for action, and enable ongoing measurement of progress**.  
 
