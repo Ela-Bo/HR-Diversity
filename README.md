@@ -12,7 +12,8 @@ Organizations need a comprehensive approach that looks at diversity, equity and 
 - **Equity** Equity involves looking at programs, initiatives and individual cases where opportunities may or may not be consistent and fair. This can be characterized by inequities or gaps in pay, promotions, opportunities for development, opportunities to lead, and more. 
 - **Inclusion** First of all, it is a feeling. It is subjective and less tangible than diversity. The best talents that don’t feel included will not contribute and won’t’ stay in the organization for a long time.
 
-Diversity and Inclusion is **not a one-time initiative**. In the best case, it becomes a part of the **company’s culture**. So the following indicators should be updated and analyzed periodically. This data is sometimes found in your core systems, like your HRIS or your learning management system, furthermore it’s found in surveys or qualitative data. 
+Diversity and Inclusion is **not a one-time initiative**. In the best case, it becomes a part of the **company’s culture**. So the following indicators should be updated and analyzed periodically. This data is sometimes found in your core systems, like your HRIS or your learning management system, furthermore it’s found in surveys or qualitative data. To kick off diversity and inclusion in your company, set goals in order to identify what the organization wants out of a D&I program.
+
 
 # Steps to setting meaningful diversity and inclusion metrics
 
